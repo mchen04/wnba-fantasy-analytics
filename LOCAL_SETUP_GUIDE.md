@@ -28,7 +28,7 @@ docker ps
 
 ```bash
 # Clone the repository (if not already cloned)
-cd /Users/michaelchen/WNBA_Fantasy
+cd /Users/michaelchen/wnba-fantasy-analytics
 
 # Install all dependencies (root, frontend, backend, shared)
 npm install
@@ -90,7 +90,7 @@ npm run prisma:seed
 
 ```bash
 # From the root directory, start both frontend and backend
-cd /Users/michaelchen/WNBA_Fantasy
+cd /Users/michaelchen/wnba-fantasy-analytics
 npm run dev
 
 # This will start:

@@ -1,6 +1,6 @@
 # Deploy to DigitalOcean
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/mchen04/WNBA_Fantasy/tree/main)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/mchen04/wnba-fantasy-analytics/tree/main)
 
 ## Manual Setup Steps
 

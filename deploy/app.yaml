@@ -16,7 +16,7 @@ databases:
 services:
   - name: backend
     github:
-      repo: mchen04/WNBA_Fantasy
+      repo: mchen04/wnba-fantasy-analytics
       branch: main
       deploy_on_push: true
     build_command: npm run build
@@ -52,7 +52,7 @@ services:
 
   - name: frontend
     github:
-      repo: mchen04/WNBA_Fantasy
+      repo: mchen04/wnba-fantasy-analytics
       branch: main
       deploy_on_push: true
     build_command: npm run build
